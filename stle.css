@@ -1,8 +1,9 @@
 :root{
-    --branco-primaria:#FFFFFF;
+    --preto-primaria:#000000;
     --cinza--tercearia: #c0c0c0;
     --botao--azul: #156bf7;
     --cor-de-fundo: #00030c;
+
 
 
 
@@ -13,5 +14,17 @@ body{
     background-color: var(--cor-de-fundo);
 
       
-    color: var(--branco-primaria)     
+    color: var(--preto
+    -primaria)     
+}
+.principal{
+ background-image: url("img/background.png");
+ background-repeat: no-repeat;
+ background-size: contain;
+ align-items: center;
+ text-align: center;
+
+
+
+
 }
